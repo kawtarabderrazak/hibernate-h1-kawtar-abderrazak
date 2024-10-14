@@ -56,6 +56,7 @@ Exécution des Tests
 Exécuter les tests dans la classe de test pour vérifier le bon fonctionnement de l'application.
 Utiliser les méthodes implémentées dans ProduitService pour valider chaque fonctionnalité.
 
+https://github.com/user-attachments/assets/a3001153-aece-4c66-b41f-1fb5c8fff755
 
 
 
